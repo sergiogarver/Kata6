@@ -1,5 +1,5 @@
-package kata4.view;
-import kata4.model.Histogram;
+package kata6.view;
+import kata6.model.Histogram;
 import java.awt.Dimension;
 import org.jfree.ui.ApplicationFrame;
 import javax.swing.JPanel;
