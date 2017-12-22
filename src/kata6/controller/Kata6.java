@@ -23,7 +23,7 @@ public class Kata6 {
     }
     
     public void input() throws FileNotFoundException, IOException{
-        filename = "C:\\Users\\usuario\\Documents\\NetBeansProjects\\Kata4\\emailsFile.txt";
+        filename = "C:\\Users\\usuario\\Documents\\NetBeansProjects\\Kata6\\emailsFile.txt";
         mailList = MailListReader.read(filename);
     
     }
